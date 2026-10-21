@@ -1,1 +1,1 @@
-[# L2_base](https://www.codewars.com/users/artas6)
+https://www.codewars.com/users/artas6
